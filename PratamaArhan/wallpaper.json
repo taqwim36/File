@@ -2,57 +2,37 @@
   "Ads": [
     {
       "select_main_ads": "ADMOB",
-      "select_backup_ads":"APPLOVIN-D",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111x",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712x",
-      "native_for_admob":"ca-app-pub-3940256099942544/2247696110x",
-      "backup_ads_banner":"db4d5e8718b97d78",
-      "backup_ads_intertitial":"518cd97722c60b52",
-      "interval_intertitial": 5,
-      "initialize_sdk":"107355779",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-1700087880063580/4025295367",
+      "main_ads_intertitial":"ca-app-pub-1700087880063580/2712213692",
+      "native_for_admob":"ca-app-pub-1700087880063580/4987023245",
+      "admob_openid": "ca-app-pub-1700087880063580/1399132023",
+      "backup_ads_banner":"e7049f85c7d090d9",
+      "backup_ads_intertitial":"71b865df8a15a9ce",
+      "interval_intertitial": 2,
+      "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
-      "high_paying_keyword_1": "",
-      "high_paying_keyword_2": "",
-      "high_paying_keyword_3": "",
-      "high_paying_keyword_4": "",
-      "high_paying_keyword_5": "",
+      "high_paying_keyword_1": "Insurance",
+      "high_paying_keyword_2": "Mortgage",
+      "high_paying_keyword_3": "Donate",
+      "high_paying_keyword_4": "Electricity",
+      "high_paying_keyword_5": "Loans",
       "status_app": "0",
       "link_redirect": "https://"
     }
   ],
-  "More":
-  [
-    {
-      "id":1,
-      "title":"Ludo King",
-      "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
-    },
-    {
-      "id":2,
-      "title":"Homescapes",
-      "image":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
-    },
-    {
-      "id":3,
-      "title":"Minecraft",
-      "image":"https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
-    }
-  ],
-
+ "More":[],
   "Categories": [
     {
       "id": 1,
       "name_category": "Pratama Arhan Wallpaper 1",
-      "image": "file:///android_asset/image/pratama/pratama1.jpg"
+      "image": "https://raw.githubusercontent.com/taqwim36/File/main/PratamaArhan/pratamaarhan10.jpg"
 
     },
     {
       "id": 2,
       "name_category": "Pratama Arhan Wallpaper 2",
-      "image": "file:///android_asset/image/arhan/arhan1.jpg"
+      "image": "https://raw.githubusercontent.com/taqwim36/File/main/PratamaArhan/pratamaarhan20.jpg"
 
     }
   ],
@@ -63,157 +43,157 @@
       "id":1,
       "name_category": "Pratama Arhan Wallpaper 1",
       "title":"Pratama Arhan Wallpaper",
-      "image":"file:///android_asset/image/pratama/pratama1.jpg"
+      "image":"https://raw.githubusercontent.com/taqwim36/File/main/PratamaArhan/pratamaarhan1.jpg"
     },
     {
       "id":1,
       "name_category": "Pratama Arhan Wallpaper 1",
       "title":"Pratama Arhan Wallpaper",
-      "image":"file:///android_asset/image/pratama/pratama2.jpg"
+      "image":"https://raw.githubusercontent.com/taqwim36/File/main/PratamaArhan/pratamaarhan2.jpg"
     },
     {
       "id":1,
       "name_category": "Pratama Arhan Wallpaper 1",
       "title":"Pratama Arhan Wallpaper",
-      "image":"file:///android_asset/image/pratama/pratama3.jpg"
+      "image":"https://raw.githubusercontent.com/taqwim36/File/main/PratamaArhan/pratamaarhan3.jpg"
     },
     {
       "id":1,
       "name_category": "Pratama Arhan Wallpaper 1",
       "title":"Pratama Arhan Wallpaper",
-      "image":"file:///android_asset/image/pratama/pratama4.jpg"
+      "image":"https://raw.githubusercontent.com/taqwim36/File/main/PratamaArhan/pratamaarhan4.jpg"
     },
     {
       "id":1,
       "name_category": "Pratama Arhan Wallpaper 1",
       "title":"Pratama Arhan Wallpaper",
-      "image":"file:///android_asset/image/pratama/pratama5.jpg"
+      "image":"https://raw.githubusercontent.com/taqwim36/File/main/PratamaArhan/pratamaarhan5.jpg"
     },
     {
       "id":1,
       "name_category": "Pratama Arhan Wallpaper 1",
       "title":"Pratama Arhan Wallpaper",
-      "image":"file:///android_asset/image/pratama/pratama6.jpg"
+      "image":"https://raw.githubusercontent.com/taqwim36/File/main/PratamaArhan/pratamaarhan6.jpg"
     },
     {
       "id":1,
       "name_category": "Pratama Arhan Wallpaper 1",
       "title":"Pratama Arhan Wallpaper",
-      "image":"file:///android_asset/image/pratama/pratama7.jpg"
+      "image":"https://raw.githubusercontent.com/taqwim36/File/main/PratamaArhan/pratamaarhan7.jpg"
     },
     {
       "id":1,
       "name_category": "Pratama Arhan Wallpaper 1",
       "title":"Pratama Arhan Wallpaper",
-      "image":"file:///android_asset/image/pratama/pratama8.jpg"
+      "image":"https://raw.githubusercontent.com/taqwim36/File/main/PratamaArhan/pratamaarhan8.jpg"
     },
     {
       "id":1,
       "name_category": "Pratama Arhan Wallpaper 1",
       "title":"Pratama Arhan Wallpaper",
-      "image":"file:///android_asset/image/pratama/pratama9.jpg"
+      "image":"https://raw.githubusercontent.com/taqwim36/File/main/PratamaArhan/pratamaarhan9.jpg"
     },
     {
       "id":1,
       "name_category": "Pratama Arhan Wallpaper 1",
       "title":"Pratama Arhan Wallpaper",
-      "image":"file:///android_asset/image/pratama/pratama10.jpg"
+      "image":"https://raw.githubusercontent.com/taqwim36/File/main/PratamaArhan/pratamaarhan10.jpg"
     },
     {
       "id":1,
       "name_category": "Pratama Arhan Wallpaper 1",
       "title":"Pratama Arhan Wallpaper",
-      "image":"file:///android_asset/image/pratama/pratama11.jpg"
+      "image":"https://raw.githubusercontent.com/taqwim36/File/main/PratamaArhan/pratamaarhan11.jpg"
     },
     {
       "id":1,
       "name_category": "Pratama Arhan Wallpaper 1",
       "title":"Pratama Arhan Wallpaper",
-      "image":"file:///android_asset/image/pratama/pratama12.jpg"
+      "image":"https://raw.githubusercontent.com/taqwim36/File/main/PratamaArhan/pratamaarhan12.jpg"
     },
     {
       "id":1,
       "name_category": "Pratama Arhan Wallpaper 1",
       "title":"Pratama Arhan Wallpaper",
-      "image":"file:///android_asset/image/pratama/pratama13.jpg"
+      "image":"https://raw.githubusercontent.com/taqwim36/File/main/PratamaArhan/pratamaarhan13.jpg"
     },
     {
       "id":1,
       "name_category": "Pratama Arhan Wallpaper 1",
       "title":"Pratama Arhan Wallpaper",
-      "image":"file:///android_asset/image/pratama/pratama14.jpg"
+      "image":"https://raw.githubusercontent.com/taqwim36/File/main/PratamaArhan/pratamaarhan14.jpg"
     },
     {
       "id":1,
       "name_category": "Pratama Arhan Wallpaper 1",
       "title":"Pratama Arhan Wallpaper",
-      "image":"file:///android_asset/image/pratama/pratama15.jpg"
+      "image":"https://raw.githubusercontent.com/taqwim36/File/main/PratamaArhan/pratamaarhan15.jpg"
     },
     {
       "id":1,
       "name_category": "Pratama Arhan Wallpaper 1",
       "title":"Pratama Arhan Wallpaper",
-      "image":"file:///android_asset/image/pratama/pratama16.jpg"
+      "image":"https://raw.githubusercontent.com/taqwim36/File/main/PratamaArhan/pratamaarhan16.jpg"
     },
     {
       "id":1,
       "name_category": "Pratama Arhan Wallpaper 1",
       "title":"Pratama Arhan Wallpaper",
-      "image":"file:///android_asset/image/pratama/pratama17.jpg"
+      "image":"https://raw.githubusercontent.com/taqwim36/File/main/PratamaArhan/pratamaarhan17.jpg"
     },
     {
       "id":1,
       "name_category": "Pratama Arhan Wallpaper 1",
       "title":"Pratama Arhan Wallpaper",
-      "image":"file:///android_asset/image/pratama/pratama18.jpg"
+      "image":"https://raw.githubusercontent.com/taqwim36/File/main/PratamaArhan/pratamaarhan18.jpg"
     },
     {
       "id":1,
       "name_category": "Pratama Arhan Wallpaper 1",
       "title":"Pratama Arhan Wallpaper",
-      "image":"file:///android_asset/image/pratama/pratama19.jpg"
+      "image":"https://raw.githubusercontent.com/taqwim36/File/main/PratamaArhan/pratamaarhan19.jpg"
     },
     {
       "id":1,
       "name_category": "Pratama Arhan Wallpaper 1",
       "title":"Pratama Arhan Wallpaper",
-      "image":"file:///android_asset/image/pratama/pratama20.jpg"
+      "image":"https://raw.githubusercontent.com/taqwim36/File/main/PratamaArhan/pratamaarhan20.jpg"
     },
     {
       "id":1,
       "name_category": "Pratama Arhan Wallpaper 1",
       "title":"Pratama Arhan Wallpaper",
-      "image":"file:///android_asset/image/pratama/pratama21.jpg"
+      "image":"https://raw.githubusercontent.com/taqwim36/File/main/PratamaArhan/pratamaarhan21.jpg"
     },
     {
       "id":1,
       "name_category": "Pratama Arhan Wallpaper 1",
       "title":"Pratama Arhan Wallpaper",
-      "image":"file:///android_asset/image/pratama/pratama22.jpg"
+      "image":"https://raw.githubusercontent.com/taqwim36/File/main/PratamaArhan/pratamaarhan22.jpg"
     },
     {
       "id":1,
       "name_category": "Pratama Arhan Wallpaper 1",
       "title":"Pratama Arhan Wallpaper",
-      "image":"file:///android_asset/image/pratama/pratama23.jpg"
+      "image":"https://raw.githubusercontent.com/taqwim36/File/main/PratamaArhan/pratamaarhan23.jpg"
     },
     {
       "id":1,
       "name_category": "Pratama Arhan Wallpaper 1",
       "title":"Pratama Arhan Wallpaper",
-      "image":"file:///android_asset/image/pratama/pratama24.jpg"
+      "image":"https://raw.githubusercontent.com/taqwim36/File/main/PratamaArhan/pratamaarhan24.jpg"
     },
     {
       "id":1,
       "name_category": "Pratama Arhan Wallpaper 1",
       "title":"Pratama Arhan Wallpaper",
-      "image":"file:///android_asset/image/pratama/pratama25.jpg"
+      "image":"https://raw.githubusercontent.com/taqwim36/File/main/PratamaArhan/pratamaarhan25.jpg"
     },
     {
       "id":1,
       "name_category": "Pratama Arhan Wallpaper 1",
       "title":"Pratama Arhan Wallpaper",
-      "image":"file:///android_asset/image/pratama/pratama26.jpg"
+      "image":"https://raw.githubusercontent.com/taqwim36/File/main/PratamaArhan/pratamaarhan26.jpg"
     },
     {
       "id":2,
