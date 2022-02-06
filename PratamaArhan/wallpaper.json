@@ -1,0 +1,375 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111x",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712x",
+      "native_for_admob":"ca-app-pub-3940256099942544/2247696110x",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "More":
+  [
+    {
+      "id":1,
+      "title":"Ludo King",
+      "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
+    },
+    {
+      "id":2,
+      "title":"Homescapes",
+      "image":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
+    },
+    {
+      "id":3,
+      "title":"Minecraft",
+      "image":"https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Pratama Arhan Wallpaper 1",
+      "image": "file:///android_asset/image/pratama/pratama1.jpg"
+
+    },
+    {
+      "id": 2,
+      "name_category": "Pratama Arhan Wallpaper 2",
+      "image": "file:///android_asset/image/arhan/arhan1.jpg"
+
+    }
+  ],
+
+  "Data":
+  [
+    {
+      "id":1,
+      "name_category": "Pratama Arhan Wallpaper 1",
+      "title":"Pratama Arhan Wallpaper",
+      "image":"file:///android_asset/image/pratama/pratama1.jpg"
+    },
+    {
+      "id":1,
+      "name_category": "Pratama Arhan Wallpaper 1",
+      "title":"Pratama Arhan Wallpaper",
+      "image":"file:///android_asset/image/pratama/pratama2.jpg"
+    },
+    {
+      "id":1,
+      "name_category": "Pratama Arhan Wallpaper 1",
+      "title":"Pratama Arhan Wallpaper",
+      "image":"file:///android_asset/image/pratama/pratama3.jpg"
+    },
+    {
+      "id":1,
+      "name_category": "Pratama Arhan Wallpaper 1",
+      "title":"Pratama Arhan Wallpaper",
+      "image":"file:///android_asset/image/pratama/pratama4.jpg"
+    },
+    {
+      "id":1,
+      "name_category": "Pratama Arhan Wallpaper 1",
+      "title":"Pratama Arhan Wallpaper",
+      "image":"file:///android_asset/image/pratama/pratama5.jpg"
+    },
+    {
+      "id":1,
+      "name_category": "Pratama Arhan Wallpaper 1",
+      "title":"Pratama Arhan Wallpaper",
+      "image":"file:///android_asset/image/pratama/pratama6.jpg"
+    },
+    {
+      "id":1,
+      "name_category": "Pratama Arhan Wallpaper 1",
+      "title":"Pratama Arhan Wallpaper",
+      "image":"file:///android_asset/image/pratama/pratama7.jpg"
+    },
+    {
+      "id":1,
+      "name_category": "Pratama Arhan Wallpaper 1",
+      "title":"Pratama Arhan Wallpaper",
+      "image":"file:///android_asset/image/pratama/pratama8.jpg"
+    },
+    {
+      "id":1,
+      "name_category": "Pratama Arhan Wallpaper 1",
+      "title":"Pratama Arhan Wallpaper",
+      "image":"file:///android_asset/image/pratama/pratama9.jpg"
+    },
+    {
+      "id":1,
+      "name_category": "Pratama Arhan Wallpaper 1",
+      "title":"Pratama Arhan Wallpaper",
+      "image":"file:///android_asset/image/pratama/pratama10.jpg"
+    },
+    {
+      "id":1,
+      "name_category": "Pratama Arhan Wallpaper 1",
+      "title":"Pratama Arhan Wallpaper",
+      "image":"file:///android_asset/image/pratama/pratama11.jpg"
+    },
+    {
+      "id":1,
+      "name_category": "Pratama Arhan Wallpaper 1",
+      "title":"Pratama Arhan Wallpaper",
+      "image":"file:///android_asset/image/pratama/pratama12.jpg"
+    },
+    {
+      "id":1,
+      "name_category": "Pratama Arhan Wallpaper 1",
+      "title":"Pratama Arhan Wallpaper",
+      "image":"file:///android_asset/image/pratama/pratama13.jpg"
+    },
+    {
+      "id":1,
+      "name_category": "Pratama Arhan Wallpaper 1",
+      "title":"Pratama Arhan Wallpaper",
+      "image":"file:///android_asset/image/pratama/pratama14.jpg"
+    },
+    {
+      "id":1,
+      "name_category": "Pratama Arhan Wallpaper 1",
+      "title":"Pratama Arhan Wallpaper",
+      "image":"file:///android_asset/image/pratama/pratama15.jpg"
+    },
+    {
+      "id":1,
+      "name_category": "Pratama Arhan Wallpaper 1",
+      "title":"Pratama Arhan Wallpaper",
+      "image":"file:///android_asset/image/pratama/pratama16.jpg"
+    },
+    {
+      "id":1,
+      "name_category": "Pratama Arhan Wallpaper 1",
+      "title":"Pratama Arhan Wallpaper",
+      "image":"file:///android_asset/image/pratama/pratama17.jpg"
+    },
+    {
+      "id":1,
+      "name_category": "Pratama Arhan Wallpaper 1",
+      "title":"Pratama Arhan Wallpaper",
+      "image":"file:///android_asset/image/pratama/pratama18.jpg"
+    },
+    {
+      "id":1,
+      "name_category": "Pratama Arhan Wallpaper 1",
+      "title":"Pratama Arhan Wallpaper",
+      "image":"file:///android_asset/image/pratama/pratama19.jpg"
+    },
+    {
+      "id":1,
+      "name_category": "Pratama Arhan Wallpaper 1",
+      "title":"Pratama Arhan Wallpaper",
+      "image":"file:///android_asset/image/pratama/pratama20.jpg"
+    },
+    {
+      "id":1,
+      "name_category": "Pratama Arhan Wallpaper 1",
+      "title":"Pratama Arhan Wallpaper",
+      "image":"file:///android_asset/image/pratama/pratama21.jpg"
+    },
+    {
+      "id":1,
+      "name_category": "Pratama Arhan Wallpaper 1",
+      "title":"Pratama Arhan Wallpaper",
+      "image":"file:///android_asset/image/pratama/pratama22.jpg"
+    },
+    {
+      "id":1,
+      "name_category": "Pratama Arhan Wallpaper 1",
+      "title":"Pratama Arhan Wallpaper",
+      "image":"file:///android_asset/image/pratama/pratama23.jpg"
+    },
+    {
+      "id":1,
+      "name_category": "Pratama Arhan Wallpaper 1",
+      "title":"Pratama Arhan Wallpaper",
+      "image":"file:///android_asset/image/pratama/pratama24.jpg"
+    },
+    {
+      "id":1,
+      "name_category": "Pratama Arhan Wallpaper 1",
+      "title":"Pratama Arhan Wallpaper",
+      "image":"file:///android_asset/image/pratama/pratama25.jpg"
+    },
+    {
+      "id":1,
+      "name_category": "Pratama Arhan Wallpaper 1",
+      "title":"Pratama Arhan Wallpaper",
+      "image":"file:///android_asset/image/pratama/pratama26.jpg"
+    },
+    {
+      "id":2,
+      "name_category": "Pratama Arhan Wallpaper 2",
+      "title":"Pratama Arhan Wallpaper",
+      "image":"file:///android_asset/image/arhan/arhan1.jpg"
+    },
+    {
+      "id":2,
+      "name_category": "Pratama Arhan Wallpaper 2",
+      "title":"Pratama Arhan Wallpaper",
+      "image":"file:///android_asset/image/arhan/arhan2.jpg"
+    },
+    {
+      "id":2,
+      "name_category": "Pratama Arhan Wallpaper 2",
+      "title":"Pratama Arhan Wallpaper",
+      "image":"file:///android_asset/image/arhan/arhan3.jpg"
+    },
+    {
+      "id":2,
+      "name_category": "Pratama Arhan Wallpaper 2",
+      "title":"Pratama Arhan Wallpaper",
+      "image":"file:///android_asset/image/arhan/arhan4.jpg"
+    },
+    {
+      "id":2,
+      "name_category": "Pratama Arhan Wallpaper 2",
+      "title":"Pratama Arhan Wallpaper",
+      "image":"file:///android_asset/image/arhan/arhan5.jpg"
+    },
+    {
+      "id":2,
+      "name_category": "Pratama Arhan Wallpaper 2",
+      "title":"Pratama Arhan Wallpaper",
+      "image":"file:///android_asset/image/arhan/arhan6.jpg"
+    },
+    {
+      "id":2,
+      "name_category": "Pratama Arhan Wallpaper 2",
+      "title":"Pratama Arhan Wallpaper",
+      "image":"file:///android_asset/image/arhan/arhan7.jpg"
+    },
+    {
+      "id":2,
+      "name_category": "Pratama Arhan Wallpaper 2",
+      "title":"Pratama Arhan Wallpaper",
+      "image":"file:///android_asset/image/arhan/arhan8.jpg"
+    },
+    {
+      "id":2,
+      "name_category": "Pratama Arhan Wallpaper 2",
+      "title":"Pratama Arhan Wallpaper",
+      "image":"file:///android_asset/image/arhan/arhan9.jpg"
+    },
+    {
+      "id":2,
+      "name_category": "Pratama Arhan Wallpaper 2",
+      "title":"Pratama Arhan Wallpaper",
+      "image":"file:///android_asset/image/arhan/arhan10.jpg"
+    },
+    {
+      "id":2,
+      "name_category": "Pratama Arhan Wallpaper 2",
+      "title":"Pratama Arhan Wallpaper",
+      "image":"file:///android_asset/image/arhan/arhan11.jpg"
+    },
+    {
+      "id":2,
+      "name_category": "Pratama Arhan Wallpaper 2",
+      "title":"Pratama Arhan Wallpaper",
+      "image":"file:///android_asset/image/arhan/arhan12.jpg"
+    },
+    {
+      "id":2,
+      "name_category": "Pratama Arhan Wallpaper 2",
+      "title":"Pratama Arhan Wallpaper",
+      "image":"file:///android_asset/image/arhan/arhan13.jpg"
+    },
+    {
+      "id":2,
+      "name_category": "Pratama Arhan Wallpaper 2",
+      "title":"Pratama Arhan Wallpaper",
+      "image":"file:///android_asset/image/arhan/arhan14.jpg"
+    },
+    {
+      "id":2,
+      "name_category": "Pratama Arhan Wallpaper 2",
+      "title":"Pratama Arhan Wallpaper",
+      "image":"file:///android_asset/image/arhan/arhan15.jpg"
+    },
+    {
+      "id":2,
+      "name_category": "Pratama Arhan Wallpaper 2",
+      "title":"Pratama Arhan Wallpaper",
+      "image":"file:///android_asset/image/arhan/arhan16.jpg"
+    },
+    {
+      "id":2,
+      "name_category": "Pratama Arhan Wallpaper 2",
+      "title":"Pratama Arhan Wallpaper",
+      "image":"file:///android_asset/image/arhan/arhan17.jpg"
+    },
+    {
+      "id":2,
+      "name_category": "Pratama Arhan Wallpaper 2",
+      "title":"Pratama Arhan Wallpaper",
+      "image":"file:///android_asset/image/arhan/arhan18.jpg"
+    },
+    {
+      "id":2,
+      "name_category": "Pratama Arhan Wallpaper 2",
+      "title":"Pratama Arhan Wallpaper",
+      "image":"file:///android_asset/image/arhan/arhan19.jpg"
+    },
+    {
+      "id":2,
+      "name_category": "Pratama Arhan Wallpaper 2",
+      "title":"Pratama Arhan Wallpaper",
+      "image":"file:///android_asset/image/arhan/arhan20.jpg"
+    },
+    {
+      "id":2,
+      "name_category": "Pratama Arhan Wallpaper 2",
+      "title":"Pratama Arhan Wallpaper",
+      "image":"file:///android_asset/image/arhan/arhan21.jpg"
+    },
+    {
+      "id":2,
+      "name_category": "Pratama Arhan Wallpaper 2",
+      "title":"Pratama Arhan Wallpaper",
+      "image":"file:///android_asset/image/arhan/arhan22.jpg"
+    },
+    {
+      "id":2,
+      "name_category": "Pratama Arhan Wallpaper 2",
+      "title":"Pratama Arhan Wallpaper",
+      "image":"file:///android_asset/image/arhan/arhan23.jpg"
+    },
+    {
+      "id":2,
+      "name_category": "Pratama Arhan Wallpaper 2",
+      "title":"Pratama Arhan Wallpaper",
+      "image":"file:///android_asset/image/arhan/arhan24.jpg"
+    },
+    {
+      "id":2,
+      "name_category": "Pratama Arhan Wallpaper 2",
+      "title":"Pratama Arhan Wallpaper",
+      "image":"file:///android_asset/image/arhan/arhan25.jpg"
+    },
+    {
+      "id":2,
+      "name_category": "Pratama Arhan Wallpaper 2",
+      "title":"Pratama Arhan Wallpaper",
+      "image":"file:///android_asset/image/arhan/arhan26.jpg"
+    }
+  ]
+}
